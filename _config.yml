@@ -1,11 +1,11 @@
 # Site settings
 title: XH's Blog
-SEOTitle: 徐画 | XH's Blog
+SEOTitle: Hua XU's Blog
 header-img: img/post-bg-desk.jpg
 email: hxu401@connect.hkust-gz.edu.cn
 wechat: hxu129
 description: "I believe in the power of trial and error."
-keyword: "XH, XH's Blog, 徐画, 徐画's Blog, iOS, Apple, iPhone"
+keyword: "XH, XH's Blog, 徐画, 徐画's Blog"
 url: "https://hxu129.github.io"          # your host, for absolute URL
 baseurl: "/blogs"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hxu129/blogs.git" # you code repository
