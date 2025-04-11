@@ -8,7 +8,7 @@ description: "I believe in the power of trial and error."
 keyword: "XH, XH's Blog, 徐画, 徐画's Blog, iOS, Apple, iPhone"
 url: "https://hxu129.github.io"          # your host, for absolute URL
 baseurl: "/blogs"      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/hxu129/hxu129.github.io.git" # you code repository
+github_repo: "https://github.com/hxu129/blogs.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -58,7 +58,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: qiubaiying
+# disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
